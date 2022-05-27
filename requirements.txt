@@ -7,6 +7,7 @@ face-recognition-models==0.3.0
 Flask==1.1.2
 Flask-Cors==3.0.9
 Flask-RESTful==0.3.8
+gunicorn
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
